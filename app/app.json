@@ -32,16 +32,11 @@
         "WRITE_EXTERNAL_STORAGE"
       ]
     },
-    "web": {
-      "favicon": "./assets/favicon.png"
-    },
-    "plugins": [
-      "expo-linear-gradient"
-    ],
     "extra": {
       "eas": {
-        "projectId": "healthcare-pro-dinesh"
+        "projectId": "8dd58310-cb3e-430d-ba83-30bb6a1c9849"
       }
-    }
+    },
+    "owner": "deepanjagan"
   }
 }
