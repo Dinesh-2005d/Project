@@ -1,0 +1,47 @@
+{
+  "expo": {
+    "name": "HealthCare Pro",
+    "slug": "healthcare-pro",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#0A0E27"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.dinesh.healthcarepro",
+      "infoPlist": {
+        "NSCameraUsageDescription": "Camera is used for patient photo capture",
+        "NSLocationWhenInUseUsageDescription": "Location used for hospital navigation"
+      }
+    },
+    "android": {
+      "package": "com.dinesh.healthcarepro",
+      "versionCode": 1,
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#0A0E27"
+      },
+      "permissions": [
+        "CAMERA",
+        "READ_EXTERNAL_STORAGE",
+        "WRITE_EXTERNAL_STORAGE"
+      ]
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      "expo-linear-gradient"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "healthcare-pro-dinesh"
+      }
+    }
+  }
+}

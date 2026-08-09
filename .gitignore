@@ -1,0 +1,45 @@
+# Node / npm
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Expo
+.expo/
+dist/
+web-build/
+expo-env.d.ts
+
+# EAS
+.easignore
+
+# Android
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+android/
+ios/
+
+# Build output
+*.apk
+*.aab
+*.ipa
+
+# Editor
+.DS_Store
+.idea/
+*.swp
+*.swo
+.vscode/
+*.log
+
+# Environment
+.env
+.env.local
+.env.production
+
+# Generated
+doc_content.txt
