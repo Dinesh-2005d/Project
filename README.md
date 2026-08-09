@@ -4,6 +4,14 @@
 
 ---
 
+## 🔗 Quick Links & App Access
+
+- 🌐 **GitHub Repository**: [https://github.com/Dinesh-2005d/Project](https://github.com/Dinesh-2005d/Project)
+- 📱 **Expo EAS Build Dashboard & APK Downloads**: [https://expo.dev/accounts/deepanjagan/projects/healthcare-pro/builds](https://expo.dev/accounts/deepanjagan/projects/healthcare-pro/builds)
+- 📦 **Expo Project Page**: [https://expo.dev/accounts/deepanjagan/projects/healthcare-pro](https://expo.dev/accounts/deepanjagan/projects/healthcare-pro)
+
+---
+
 ## 📱 Features
 
 ### Module 1: Patient & Appointment Management
