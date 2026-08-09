@@ -7,7 +7,7 @@
 ## 🔗 Quick Links & App Access
 
 - 🌐 **GitHub Repository**: [https://github.com/Dinesh-2005d/Project](https://github.com/Dinesh-2005d/Project)
-- 🚀 **Live EAS Android Build Page**: [https://expo.dev/accounts/deepanjagan/projects/healthcare-pro/builds/33952671-9e1c-4ce5-8fe4-585c3d135187](https://expo.dev/accounts/deepanjagan/projects/healthcare-pro/builds/33952671-9e1c-4ce5-8fe4-585c3d135187)
+- 🚀 **Live EAS Android Build Page**: [https://expo.dev/accounts/deepanjagan/projects/healthcare-pro/builds/81b63dfd-8ecb-458d-ab03-6568ccb019e7](https://expo.dev/accounts/deepanjagan/projects/healthcare-pro/builds/81b63dfd-8ecb-458d-ab03-6568ccb019e7)
 - 📱 **All Expo Builds & APK Downloads**: [https://expo.dev/accounts/deepanjagan/projects/healthcare-pro/builds](https://expo.dev/accounts/deepanjagan/projects/healthcare-pro/builds)
 - 📦 **Expo Project Page**: [https://expo.dev/accounts/deepanjagan/projects/healthcare-pro](https://expo.dev/accounts/deepanjagan/projects/healthcare-pro)
 
